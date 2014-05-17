@@ -2,8 +2,8 @@ var app, key;
 $(function() {
 
 
-	Hoist.apiKey("<key>");
-	key = "<key>"; //Saved globally for use in profile pictures
+	Hoist.apiKey("SEVEOFXPEXZFFRBIXUGA");
+	key = "SEVEOFXPEXZFFRBIXUGA"; //Saved globally for use in profile pictures
 
 	//Account Controller
 	window.account = new AccountManager();

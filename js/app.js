@@ -3,6 +3,7 @@ $(function() {
 
 
 	Hoist.apiKey("SEVEOFXPEXZFFRBIXUGA");
+	
 	key = "SEVEOFXPEXZFFRBIXUGA"; //Saved globally for use in profile pictures
 
 	//Account Controller
